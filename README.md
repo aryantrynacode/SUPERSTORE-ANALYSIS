@@ -38,5 +38,7 @@ QUESTION 7. ANALYZE THE SALES TO PROFIT RATIO
 <BR>
 <BR>
 
+![THANK YOU](https://github.com/aryantrynacode/SUPERSTORE-ANALYSIS/blob/d59752ec3428b82b0b27f4af338a28dd025099cf/22169815474_985dbe1a3d.jpg)
+
 ![Alt Text]([path/to/your-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2F128772308%40N06%2F22169815474&psig=AOvVaw1FH8RmjLxAGU3oMPqgoOuo&ust=1748185290022000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC7-O2vvI0DFQAAAAAdAAAAABAK))
 
