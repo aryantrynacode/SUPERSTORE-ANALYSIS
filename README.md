@@ -35,3 +35,8 @@ QUESTION 6. ANALYZE THE SALES AND PROFIT BY CUSTOMER SEGMENT
 <BR>
 QUESTION 7. ANALYZE THE SALES TO PROFIT RATIO
 <BR>
+<BR>
+<BR>
+
+![Alt Text]([path/to/your-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2F128772308%40N06%2F22169815474&psig=AOvVaw1FH8RmjLxAGU3oMPqgoOuo&ust=1748185290022000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC7-O2vvI0DFQAAAAAdAAAAABAK))
+
